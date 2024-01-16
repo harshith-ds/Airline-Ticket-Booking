@@ -1,13 +1,5 @@
 # AirBooking
-AirBooking is an airline ticket booking web application that aims to provide users with a seamless and convenient platform for searching and booking flights. It offers a range of features to enhance the booking experience and ensure a hassle-free airline travel.
-
-## Table of Contents
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Getting Started](#getting-started)
-
-* [Screenshots](#screenshots)
-
+AirBooking is an airline ticket booking web application that aims to provide users with a seamless and convenient platform for searching and booking flights. It offers a range of features to enhance the booking experience and ensure hassle-free airline travel.
 
 
 ## Technologies Used
