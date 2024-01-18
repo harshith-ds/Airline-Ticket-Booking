@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const book = require('../models/booking.js');
 
 const uri =
-  'mongodb+srv://pokemonfanshravan:pokemon@cluster0.4brsf15.mongodb.net/?retryWrites=true&w=majority';
+  'mongodb+srv://dbname:password@cluster0.4brsf15.mongodb.net/?retryWrites=true&w=majority';
 
 mongoose.connect(uri, {
   useNewUrlParser: true,
